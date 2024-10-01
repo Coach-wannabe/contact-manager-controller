@@ -13,19 +13,15 @@
   Entity Framework Core (In-Memory Database)
   Swagger / OpenAPI
   C#
-Предварительные требования
+Предварительные требования:
   .NET 6 SDK или выше
   Visual Studio или VS Code
   Postman (опционально, для тестирования API)
-Начало работы
-1. Клонируйте репозиторий:
-  git clone https://github.com/your-repository/ContactManagerAPI.git
-2. Перейдите в директорию проекта:
-  cd ContactManagerAPI
-3. Соберите проект:
-  dotnet build
-4. Запустите проект:
-  dotnet run
+Начало работы:
+1. Клонируйте репозиторий: git clone https://github.com/your-repository/ContactManagerAPI.git
+2. Перейдите в директорию проекта: cd ContactManagerAPI
+3. Соберите проект: dotnet build
+4. Запустите проект: dotnet run
 По умолчанию приложение будет запущено на https://localhost:5001.
 
 5. Доступ к Swagger UI
